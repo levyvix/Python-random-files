@@ -1,0 +1,1 @@
+def sillycase(word):
